@@ -25,7 +25,7 @@ void setup() {
   stroke(127+64);
   strokeWeight(1.75);
   //font=loadFont("Font1.vlw");
-  font=createFont("Purisa",28);
+  font=createFont("Harlow Solid Italic",28);
   textFont(font,28);
   frameRate(50);
   used = new boolean[width/px][height/px]; // initialised to false by default
