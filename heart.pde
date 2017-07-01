@@ -50,7 +50,7 @@ void draw() {
     text("of showing it but,", 80, 120);
     text("I just want you to know...", 100, 220);
     text("I love you!", 175, 300);
-    text("-Baby Boy ❤", 400, 430);
+    text("-Baby Boy ❤", 300, 430);
     return;
   } else if(frameCount > drawingframes) {
       return; // effectively creating a small delay after drawing the tiles
