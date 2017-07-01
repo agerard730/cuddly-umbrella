@@ -45,12 +45,12 @@ void draw() {
     return;
   } else if(frameCount == drawingframes + textframesdelay) {
     fill(63 + 32);
-    text("Melfie Lynne,", 10, 50);
+    text("Hey Baby (/^ω^)/,", 10, 50);
     text("This might be a simple way", 80,90);
     text("of showing it but,", 80, 120);
     text("I just want you to know...", 100, 220);
     text("I love you!", 175, 300);
-    text("-Allen", 400, 430);
+    text("-Baby Boy ❤", 400, 430);
     return;
   } else if(frameCount > drawingframes) {
       return; // effectively creating a small delay after drawing the tiles
