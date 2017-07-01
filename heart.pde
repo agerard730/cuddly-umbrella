@@ -46,7 +46,7 @@ void draw() {
   } else if(frameCount == drawingframes + textframesdelay) {
     fill(63 + 32);
     text("Hey Baby (/^ω^)/,", 10, 50);
-    text("This might be a simple way", 80,90);
+    text("This might be a simple way", 100,90);
     text("of showing it but,", 80, 120);
     text("I just want you to know...", 100, 220);
     text("I love you!", 175, 300);
